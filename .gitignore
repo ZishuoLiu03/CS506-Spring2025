@@ -3,3 +3,5 @@
 env/
 */env
 */.DS_STORE
+/lecture_07
+lecture_07/worksheet_07.ipynb
